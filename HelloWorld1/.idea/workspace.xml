@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/swapi_muster" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt3/test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt4/Versuch2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt5/Projekt5_Abgabe" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt6/Abgabe" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt6/woche10 (2)/auas" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt6/woche10 (3)/auas" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt6/woche10 (4)/auas" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt6/woche10/auas" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt7/woche14/woche14/alkomat_vorgabe/alkomat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt7/zinsen" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt7Abgabe/Abgabe" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/SoSe18/Info/Softwareentwicklung/Projekte/Projekt7Abgabe/woche14/woche14/alkomat_vorgabe/alkomat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/Versuch1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Hoersaal/Hoersaaluebung2/ubung-2-roman-numerals-git-kata-reiter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Hoersaal/Hoersaaluebung4/uebung-4-othwouhtoiaiht" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Hoersaal/Hoersaaluebung8/ubung-8-webanwendung-pro" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Hoersaal/Hoersaaluebung9/swapi_muster" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Hoersaal/Hoersaaluebung9/uebung-9-web-api-los" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Projekt2/projekt-2-ziegel-24-reiterderinfokalypse" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Projekt4/Abgabe" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Projekt4/projekt-4-scs-cluelesscoders/person-scs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Projekt4/projekt-4-scs-cluelesscoders/projekt-scs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Onedrive/WiSe1819/Propra2/Projekt4/projekt-4-scs-cluelesscoders1/person-scs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../abschlussprojekt-threeweeksaslave/sharingIsCaring" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="684" />
+    <option name="width" value="672" />
+    <option name="height" value="737" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
